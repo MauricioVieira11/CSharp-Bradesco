@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\bin\Debug\Calculos_basicos.exe.config
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\bin\Debug\Calculos_basicos.exe
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\bin\Debug\Calculos_basicos.pdb
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.Form1.resources
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.Properties.Resources.resources
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.exe
+C:\Users\mauri\source\repos\Bradesco\Calculos_basicos\Calculos_basicos\obj\Debug\Calculos_basicos.pdb
