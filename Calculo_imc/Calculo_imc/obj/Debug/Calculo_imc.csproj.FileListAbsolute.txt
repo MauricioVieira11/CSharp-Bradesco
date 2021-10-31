@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe.config
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.exe
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\bin\Debug\Calculo_imc.pdb
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Form1.resources
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.Properties.Resources.resources
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.exe
+C:\Users\mauri\source\repos\Bradesco\Calculo_imc\Calculo_imc\obj\Debug\Calculo_imc.pdb
