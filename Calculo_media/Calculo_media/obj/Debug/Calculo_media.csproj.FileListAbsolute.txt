@@ -1,0 +1,10 @@
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\bin\Debug\Calculo_media.exe.config
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\bin\Debug\Calculo_media.exe
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\bin\Debug\Calculo_media.pdb
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csproj.AssemblyReference.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.Form1.resources
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.Properties.Resources.resources
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csproj.GenerateResource.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.csproj.CoreCompileInputs.cache
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.exe
+C:\Users\mauri\source\repos\Bradesco\Calculo_media\Calculo_media\obj\Debug\Calculo_media.pdb
